@@ -9,6 +9,3 @@ Website portofolio pribadi ini dibuat untuk menampilkan informasi, keahlian, dan
 - **Halaman Kontak/Form:** Form request project untuk klien, dengan input nama, email, jenis layanan, deskripsi proyek, checkbox, dan tombol submit.
 - **Navigasi konsisten** di semua halaman.
 - **Footer** dengan link ke [ITPLN](https://itpln.ac.id).
-
-## Struktur Folder
-
