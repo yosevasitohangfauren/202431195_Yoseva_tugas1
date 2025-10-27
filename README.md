@@ -1,6 +1,6 @@
 # Portofolio Pribadi Yoseva Faurensia Sitohang
 
-Website portofolio pribadi ini dibuat untuk menampilkan informasi, keahlian, dan proyek-proyek yang pernah dikerjakan oleh **Yoseva Faurensia Sitohang**. Website ini menerapkan konsep **Responsive Web Design (RWD)** agar tampilan tetap optimal di berbagai perangkat.
+Website portofolio pribadi ini saya buat untuk menampilkan informasi, keahlian, dan proyek-proyek yang pernah saya kerjakan. Website ini menerapkan konsep **Responsive Web Design (RWD)** agar tampilan tetap optimal di berbagai perangkat.
 
 ## Fitur
 
